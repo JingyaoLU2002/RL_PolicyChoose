@@ -35,6 +35,3 @@ RL_PolicyChoose/
 ├── law_data_total.sql                     # 案件信息、对话记录存储的SQL文件
 └── requirement.txt                        # 项目依赖库列表
 ``````
-
-## 正确运行示例
-![运行结果示例](out_put.png) 
