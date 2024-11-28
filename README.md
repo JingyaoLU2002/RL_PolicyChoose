@@ -37,4 +37,4 @@ RL_PolicyChoose/
 ``````
 
 ## 正确运行示例
-![运行结果示例](out_put.png)
+![运行结果示例](out_put.png) 
